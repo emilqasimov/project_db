@@ -66,6 +66,13 @@ $textcolor: #434343;
     }
 }
 
+.icon a{
+    color: #fff;
+    &:hover{
+        color: #bdbdbd;
+    }
+}
+
 .bg {
     background-size: cover !important;
 }
