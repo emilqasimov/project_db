@@ -1348,7 +1348,7 @@ footer li {
     padding: 100px 0;
   }
   .services [class*="col-"] {
-    padding: 0;
+    padding: 0 !important;
   }
   .gallery {
     padding: 60px 0;

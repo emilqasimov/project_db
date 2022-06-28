@@ -1413,7 +1413,7 @@ footer {
     .services {
         padding: 100px 0;
         [class*="col-"] {
-            padding: 0;
+            padding: 0 !important;
         }
     }
 
